@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orbitwebtools.github.io/heic-to-jpg-converter/sitemap.xml
